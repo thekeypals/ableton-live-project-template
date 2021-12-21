@@ -21,7 +21,7 @@ If needed use the shortcut `Shift` + `?` to show Info View.
 
 For any custom items that have been added to the template we've created our own instructional text and it will appear in this same window.
 
-![alt text](https://github.com/thekeypals/ableton-live-project-template/blob/main/images/info-view.jpeg)
+![Info View](https://github.com/thekeypals/ableton-live-project-template/blob/main/images/info-view.jpeg)
 
 ## Contact
 
