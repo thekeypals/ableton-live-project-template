@@ -6,7 +6,7 @@ If you don't have Ableton Live installed you can [sign up for a free 90 day tria
 
 ## Instillation
 
-Download the latest release [here](https://github.com/thekeypals/ableton-live-project-template/blob/main/v0.1.als).
+Download the latest release [here](https://github.com/thekeypals/ableton-live-project-template/releases).
 
 After downloading the file:
 
