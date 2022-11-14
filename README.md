@@ -27,8 +27,6 @@ For any custom items that have been added to the template we've created our own 
 
 If you have any questions or comments connect with us on Twitter [@thekeypals](https://twitter.com/intent/tweet?screen_name=thekeypals) or write to us at <mail@thekeypals.com>.
 
-Please consider supporting the collective's activities by making a small donation via [PayPal](https://www.paypal.com/donate?hosted_button_id=UNXSTNEB8LVQE).
-
 ## License
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
